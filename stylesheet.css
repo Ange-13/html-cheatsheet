@@ -1,0 +1,9 @@
+body {
+  background-color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.spacing {
+  padding: 10px 15px;
+  margin-bottom: 15px;
+}
